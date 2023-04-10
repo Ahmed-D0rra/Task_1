@@ -7,7 +7,7 @@ int Add(int x, int y)
 }
 
 
-int substract(int x, int y)
+int sub(int x, int y)
 {
 	return x-y;
 }
@@ -25,6 +25,18 @@ void main()
 
 
 
+
+}
+
+int multiply(int x,int y){
+
+return(x*y);
+
+}
+
+int divide(int x,int y){
+
+return(x/y);
 
 }
 
