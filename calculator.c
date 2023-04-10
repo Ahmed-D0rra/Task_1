@@ -7,7 +7,8 @@ int Add(int x, int y)
 }
 
 
-int SUBTRACT(int x, int y)
+
+int sub_crr(int x, int y)
 {
 	return x-y;
 }
